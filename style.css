@@ -43,3 +43,11 @@ h1 {
 	padding-right: 6%;
 	padding-bottom: 2%;
 }
+
+#attention {
+	margin-bottom:0px;
+	margin-top:0px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
