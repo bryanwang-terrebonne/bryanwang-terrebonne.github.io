@@ -45,8 +45,8 @@ h1 {
 }
 
 #attention {
-	margin-bottom:0px;
-	margin-top:0px;
-	display: flex;
-	justify-content: center;
+	margin-bottom:0px !important;
+	margin-top:0px !important;
+	display: flex !important;
+	justify-content: center !important;
 }
