@@ -44,9 +44,11 @@ h1 {
 	padding-bottom: 2%;
 }
 
-#attention {
-	margin-bottom:0px !important;
-	margin-top:0px !important;
-	display: flex !important;
-	justify-content: center !important;
+h2 {
+	margin-bottom:0px;
+	margin-top:0px;
+	display: flex;
+	justify-content: center;
+	font-size: 1.35rem;
+	font-weight: normal;
 }
