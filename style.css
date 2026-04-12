@@ -51,7 +51,7 @@ h1 {
 	justify-content: center !important;
 }
 
-#el {
+#el a {
 	justify-content: center;
 	display: flex;
 	flex-wrap: wrap;
