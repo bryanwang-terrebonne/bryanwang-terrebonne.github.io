@@ -50,3 +50,9 @@ h1 {
 	display: flex !important;
 	justify-content: center !important;
 }
+
+#el {
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+}
